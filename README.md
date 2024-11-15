@@ -1,2 +1,2 @@
-# AI_Image_generator
-the web3 project 
+# AI_Image_Generator
+The web3 project 
